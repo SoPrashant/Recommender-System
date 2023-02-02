@@ -175,14 +175,3 @@ Launch a "human evaluation A/B test" to get other real opinions (besides my own)
 Try to evaluate using training and testing data.
 
 [Presentation slides](https://docs.google.com/presentation/d/1C-emUHLX-wpJ4-EEIQcAcrnzNi5Rmj_LtY_hMxRMDHE/edit?usp=sharing)
-
-citations:
-WWW / SIGIR papers http://jmcauley.ucsd.edu/data/amazon/index.html,
-R. He, J. McAuley. Modeling the visual evolution of fashion trends with one-class collaborative filtering. WWW, 2016
-J. McAuley, C. Targett, J. Shi, A. van den Hengel. Image-based recommendations on styles and substitutes. SIGIR, 2015
-1
-
-dataworld = https://data.world/dilumr/color-names/workspace/file?filename=wikipedia_color_names.csv
-
-Quora - https://www.quora.com/How-do-you-measure-and-evaluate-the-quality-of-recommendation-engines
-
